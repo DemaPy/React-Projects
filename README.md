@@ -1,3 +1,9 @@
+# Here we have 2 apps.
+
+First app you can find in folder React basket
+Second app will be without any folder
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
