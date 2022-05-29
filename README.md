@@ -1,6 +1,6 @@
 # Here we have 2 apps.
 
-First app you can find in folder React basket
+First app you can find in folder React basket.
 Second app will be without any folder
 
 
